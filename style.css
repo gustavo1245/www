@@ -1,6 +1,9 @@
 .cuerpo {
     background-color: rgb(243, 230, 215);
 }
+.cuerpoP {
+    margin: 200px;
+}
 .nombre {
     color: rgb(57, 10, 110);
     text-align: center;
